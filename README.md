@@ -1,4 +1,3 @@
-# Zara Clone Deployed Link: [Zara-origins](https://zara-origins.netlify.app/)
 
 This project is a clone of ZARA.com which is well known online shopping store. The company specializes in fast fashion, and products include clothing, accessories, shoes, beauty products and many more things.
 
@@ -69,15 +68,5 @@ Users have to provide OTP to verify their order which they received on their reg
 ![payment](https://user-images.githubusercontent.com/17249211/193626144-f25ecd6d-a8e7-4a65-8aef-568e8fdcf0be.png)
 
 ![payment2](https://user-images.githubusercontent.com/17249211/193626160-f2ac3af2-638c-4824-a6e0-bf3711d15b0e.png)
-
-## Responsive :
-Our website is responsive as well.
-
-## Contributors :
-  - [@MoHitksS](https://github.com/MoHitksS) 
-  - [@Ravindra02Yadav](https://github.com/Ravindra02Yadav)
-  - [@BhruguPrasad](https://github.com/BhruguPrasad)
-  - [@Codex-Swapnil1](https://github.com/Codex-Swapnil1)
-  - [@Ppreedam](https://github.com/Ppreedam)
 
 
